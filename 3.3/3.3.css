@@ -1,0 +1,8 @@
+h2{ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-size: 40px;}
+table, th, td {
+    border:1px solid rgb(202, 44, 44);
+      }
+       th { color: rgb(58, 25, 247);  }
+       tr{ color: darkolivegreen ;}
+       tr{ font-size: 40px;}
+       
