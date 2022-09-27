@@ -19,12 +19,16 @@ h3{
     font-weight: bold;
 
 }
-p{ color: #4D4D4D;}
+p{ color: #d62d2d;}
 p.p1{ font-weight: bold;}
 a{ color: #8A2BE2;
  text-decoration: none;}
 
- header{
+ header{ color: rgb(13, 126, 224);
     width: 33%;
-    background-image: url("pla");
+    background-image: url(./img/game2.png);
  }
+ article{ border: 3px solid red;
+    border-radius: 12px;
+    padding: 5px;
+border-left: 7px solid red;}
