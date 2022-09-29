@@ -6,7 +6,7 @@
 html {
   font-size: 62.5%;
 }
-body {
+body { background-color: black;
   font-family: "Goldman", cursive;
   
     margin: 0;
@@ -63,3 +63,4 @@ list-style-type: circle;
 font-size: 24px;  
 font-family: Verdana;
 }
+li{ color: #00a8c7;}
